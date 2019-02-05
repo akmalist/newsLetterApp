@@ -1,7 +1,7 @@
 # newsLetterApp
 This is my news letter app. 
 
-I used services such as: https://us20.admin.mailchimp.com/
+I used services such as: mailchimp.com
 and : heroku.com 
 
 
