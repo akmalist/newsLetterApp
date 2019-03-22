@@ -39,7 +39,7 @@ app.post("/", function(req,res){
     // also make sure to change the //usX/ with USand whatever number you get from api KEY
     method: "POST", // defaul method is GET so we need to change this to post
     headers:{
-    "Authorization":"Aki1 953b554d0bb234cfdeef1977bd0c0143-us20"
+    "Authorization":  included the API key"
   },
     body: jsonData
 
