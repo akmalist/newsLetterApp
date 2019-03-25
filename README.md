@@ -1,5 +1,5 @@
 # NewsLetterApp
-This is my news letter app. 
+This is my newsletter app. 
 
 I used services such as: mailchimp.com  and  heroku.com 
 
